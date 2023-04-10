@@ -11,7 +11,7 @@ Create a .env file containing the database name as well as your username and pas
 ```
 DB_NAME='ecommerce_db'
 DB_USER='root'
-DB_PW='Nf25Metvj3@Zdp!'
+DB_PW='password'
 ```
 
 Run the command ```npm i``` in the terminal.
